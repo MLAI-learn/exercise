@@ -1,1 +1,2 @@
 print('cookie')
+print('new')
